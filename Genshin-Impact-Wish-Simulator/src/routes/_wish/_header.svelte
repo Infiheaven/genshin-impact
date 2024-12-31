@@ -49,11 +49,8 @@
 	const navigate = getContext('navigate');
 
 	const previousClick = () => {
-		navigate('allbanners');
-		playSfx();
-	};
-	const closeWindows = () => {
-		window.close();
+		// navigate('allbanners');
+		// playSfx();
 	};
 
 	const handleMenu = getContext('handleMenu');
@@ -138,9 +135,6 @@
 				</div>
 
 				<button class="close" on:click={previousClick} title="Change Banner">
-					<i class="gi-close" />
-				</button>
-				<button class="close" on:click={closeWindows} title="close">
 					<i class="gi-close" />
 				</button>
 			{:else}
