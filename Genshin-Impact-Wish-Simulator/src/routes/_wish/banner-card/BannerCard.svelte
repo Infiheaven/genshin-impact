@@ -122,7 +122,7 @@
 				wrapperClass="card-image {imageError ? 'skeleton' : ''}"
 			/>
 			<div class="frame">
-				<FrameCharacter {bannerName} {character} {textOffset} />
+				<FrameStandard {bannerName} />
 			</div>
 		{/if}
 
@@ -234,7 +234,9 @@
 		border-radius: 20px;
 		border: #e2d7b6 0.1rem solid;
 		font-size: calc(1.5 / 100 * var(--content-width));
-		transition: background 0.25s, color 0.25s;
+		transition:
+			background 0.25s,
+			color 0.25s;
 	}
 
 	.info button:hover {

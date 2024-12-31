@@ -2,35 +2,36 @@
 	"member": [
 		{
 			"version": 1,
-			"characters": ["charlotte", "beidou", "collei","furina"],
+			"characters": ["qiqi", "keqing", "diluc", "mona", "jean"],
 			"featured": {
-				"bannerName": "chanson-of-many-waters-1",
-				"character": "furina"
+				"bannerName": "wanderlust-invocation-1",
+				"character": "jean"
 			}
 		},
 		{
 			"version": 2,
-			"characters": ["charlotte", "beidou", "collei","furina"],
+			"characters": ["qiqi", "keqing", "diluc", "mona", "jean"],
 			"featured": {
-				"bannerName": "chanson-of-many-waters-1",
-				"character": "furina"
+				"bannerName": "wanderlust-invocation-1",
+				"character": "jean"
 			}
 		},
 		{
 			"version": 3,
-			"characters": ["charlotte", "beidou", "collei","furina"],
+			"characters": ["qiqi", "keqing", "diluc", "mona", "jean"],
 			"featured": {
-				"bannerName": "chanson-of-many-waters-1",
-				"character": "furina"
+				"bannerName": "wanderlust-invocation-1",
+				"character": "jean"
 			}
 		},
 		{
 			"version": 4,
-			"characters": ["charlotte", "beidou", "collei","furina"],
+			"characters": ["qiqi", "keqing", "diluc", "mona", "jean"],
 			"featured": {
-				"bannerName": "chanson-of-many-waters-1",
-				"character": "furina"
+				"bannerName": "wanderlust-invocation-1",
+				"character": "jean"
 			}
 		}
 	]
 }
+
